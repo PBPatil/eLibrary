@@ -1,2 +1,2 @@
-# NLP-Library
-eBooks on Natural Language Processing 
+# eLibrary
+eBooks on various topics mainly catering to Technology 
